@@ -43,15 +43,9 @@ namespace NancyProxyAsp
             var element = document.DocumentNode.SelectSingleNode("//source");
             if (element != null)
             {
-                //var xmlDocument = new XmlDocument();
-                ////xmlDocument.LoadXml(element.OuterHtml);
-                //var audioElements = xmlDocument.GetElementsByTagName("audio");
-                //if (audioElements.Count > 0)
-                //{
                 url = element.Attributes?["src"].Value;
                 Console.WriteLine("Returned: {0}", url);
                 return url;
-                //}
             }
             return null;
         }
