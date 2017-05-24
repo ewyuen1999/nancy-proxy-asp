@@ -1,0 +1,38 @@
+﻿[
+  {
+    "id": "KJV",
+    "displayName": "King James Version"
+  },
+  {
+    "id": "NIV",
+    "displayName": "New International Version"
+  },
+  {
+    "id": "ESV",
+    "displayName": "English Standard Version"
+  },
+  {
+    "id": "CNVT",
+    "displayName": "Chinese New Ver (Trad)"
+  },
+  {
+    "id": "CNVS",
+    "displayName": "Chinese New Ver (Simp)"
+  },
+  {
+    "id": "CUV",
+    "displayName": "Chinese Union (Trad, RCUV Audio)"
+  },
+  {
+    "id": "CUVS",
+    "displayName": "Chinese Union Ver (Simp)"
+  },
+  {
+    "id": "RVR1960",
+    "displayName": "Reina-Valera (1960)"
+  },
+  {
+    "id": "VIET",
+    "displayName": "Vietnamese Bible (1934)"
+  }
+]
